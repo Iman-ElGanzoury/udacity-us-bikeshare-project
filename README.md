@@ -15,15 +15,13 @@ bikeshare datasets from 3 different US cities.
 
 ## Software
 
-* Python 3, NumPy, and pandas installed using Anaconda
-* A terminal application (Terminal on Mac and Linux or Cygwin on Windows)
+* Python 3, NumPy, and Pandas installed using Anaconda.
+* A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 ## Files
 
 - **bikeshare.py:** A file containing the Python code used to run the interactive explorer.
-- **chicago.csv, new_york_city.csv, washington.csv:**
-   3 csv datasets that contain randomly selected data for the first six months of 2017.
-   Columns include:
+- **chicago.csv, new_york_city.csv, washington.csv:** Three csv datasets that contain randomly selected data for the first six months of 2017. Columns include:
 
     - Start Time (e.g., 2017-01-01 00:07:57)
     - End Time (e.g., 2017-01-01 00:20:53)
@@ -31,8 +29,8 @@ bikeshare datasets from 3 different US cities.
     - Start Station (e.g., Broadway & Barry Ave)
     - End Station (e.g., Sedgwick St & North Ave)
     - User Type (Subscriber or Customer)
-
- The Chicago and New York City files also have the following two columns:
+    ---
+  The Chicago and New York City files also have the following two columns:
     - Gender
     - Birth Year
 
@@ -63,7 +61,7 @@ bikeshare datasets from 3 different US cities.
 
 ## Instructions
 
-* Open the terminal app in this directory, then run `python bikeshare.py`
+* Open the terminal app in this directory, then run `python bikeshare.py`.
 
 ## Creator
 
